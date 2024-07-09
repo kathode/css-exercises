@@ -1,0 +1,19 @@
+p {
+  background-color: rgb(241, 165, 165);
+  font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+div#blue {
+  color: blue;
+  font-size: 36px;
+}
+
+p.big {
+  font-size: 24px;
+}
+
+div#green {
+  background-color: greenyellow;
+  font-size: 24px;
+  font-weight: bold;
+}
